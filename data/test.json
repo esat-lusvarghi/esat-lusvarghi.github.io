@@ -1,8 +1,20 @@
 [{
-		"name": "alfa"
+		"name": "alfa",
+		"scores": [{
+				"date": "05/02/19",
+				"score": "1000"
+			},
+			{}
+		]
 	},
 	{
-		"name": "Beta"
+		"name": "Beta",
+		"scores": [{
+				"date": "05/07/19",
+				"score": "6000"
+			},
+			{}
+		]
 	}
 
 ]
