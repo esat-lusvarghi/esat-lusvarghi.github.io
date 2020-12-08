@@ -1,9 +1,8 @@
-{
-	"users": [{
-			"name": "Alfa"
-		}, {
-			"name": "Beta"
-		}
+[{
+		"name": "alfa"
+	},
+	{
+		"name": "Beta"
+	}
 
-	]
-}
+]
